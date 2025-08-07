@@ -86,9 +86,9 @@ Build a predictive model to assess whether a credit card customer is likely to d
 
 
 ## 🔗 Deliverables:
-- ✅ Source Code: [Link to this GitHub repo]
-- ✅ Video Explanation: [YouTube or Drive link]
-- ✅ LinkedIn Post: [Your LinkedIn post link]
+- ✅ Source Code: [https://github.com/Sohag016/CodeAlpha_CreditScoringModel]
+- ✅ Video Explanation: [[YouTube or Drive link](https://www.youtube.com/watch?v=9KEbMX8taa4)]
+- ✅ LinkedIn Post: [[Your LinkedIn post link](https://www.linkedin.com/in/sohag-a5550a374/)]
 
 ---
 
